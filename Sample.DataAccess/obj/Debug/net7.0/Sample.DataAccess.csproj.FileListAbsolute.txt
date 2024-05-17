@@ -1,0 +1,5 @@
+C:\Users\KUROPSİS\Documents\GitHub\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.csproj.AssemblyReference.cache
+C:\Users\KUROPSİS\Documents\GitHub\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUROPSİS\Documents\GitHub\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.AssemblyInfoInputs.cache
+C:\Users\KUROPSİS\Documents\GitHub\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.AssemblyInfo.cs
+C:\Users\KUROPSİS\Documents\GitHub\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.csproj.CoreCompileInputs.cache
