@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8hYHl0TACFrEG5rFpVBQ7etpALj/p1aduDfUMmcs8IAdqeo8rkgNb9zJvFICJaFPaiYKeQkfHkgANiRyvuU/JA==",
+  "dgSpecHash": "3O8AJiXpZ42FfWANWqrKbJr+VGSEMRNvk2yNrOJZHY7J11QwClAMF/w5MQGCjI0PT3JTBM61b+4czjVmp7Sy+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\Sample\\Sample.Entities\\Sample.Entities.csproj",
+  "projectFilePath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\SamleRepositoryPattern\\Sample.Entities\\Sample.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

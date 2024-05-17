@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pwuANStCQ9532BTxVHXl5Qznqtbmei/vw2MWWHir3dwndDcQkGnerPKtYMB8LOe27DNmO1re9HH5hvV8vTKoEQ==",
+  "dgSpecHash": "CZ0I2otrX2h9QPLOQsEQiNXxYyvhmfjtT39ptRTzx74zGK7vZ8IcvL4wlD4crLUvisj8p8zuU5RScV9mEIDepQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\Sample\\Sample.DataAccess\\Sample.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\SamleRepositoryPattern\\Sample.DataAccess\\Sample.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KUROPSİS\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\KUROPSİS\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

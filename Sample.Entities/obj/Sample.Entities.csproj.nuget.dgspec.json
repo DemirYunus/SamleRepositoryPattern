@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KUROPSİS\\Documents\\GitHub\\Sample\\Sample.Entities\\Sample.Entities.csproj": {}
+    "C:\\Users\\KUROPSİS\\Documents\\GitHub\\SamleRepositoryPattern\\Sample.Entities\\Sample.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KUROPSİS\\Documents\\GitHub\\Sample\\Sample.Entities\\Sample.Entities.csproj": {
+    "C:\\Users\\KUROPSİS\\Documents\\GitHub\\SamleRepositoryPattern\\Sample.Entities\\Sample.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\Sample\\Sample.Entities\\Sample.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\SamleRepositoryPattern\\Sample.Entities\\Sample.Entities.csproj",
         "projectName": "Sample.Entities",
-        "projectPath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\Sample\\Sample.Entities\\Sample.Entities.csproj",
+        "projectPath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\SamleRepositoryPattern\\Sample.Entities\\Sample.Entities.csproj",
         "packagesPath": "C:\\Users\\KUROPSİS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\Sample\\Sample.Entities\\obj\\",
+        "outputPath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\SamleRepositoryPattern\\Sample.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
