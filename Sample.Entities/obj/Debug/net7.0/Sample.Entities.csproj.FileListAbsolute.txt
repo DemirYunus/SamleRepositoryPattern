@@ -10,3 +10,15 @@ C:\Users\KUROPSİS\Documents\GitHub\Sample\Sample.Entities\obj\Debug\net7.0\Samp
 C:\Users\KUROPSİS\Documents\GitHub\Sample\Sample.Entities\obj\Debug\net7.0\refint\Sample.Entities.dll
 C:\Users\KUROPSİS\Documents\GitHub\Sample\Sample.Entities\obj\Debug\net7.0\Sample.Entities.pdb
 C:\Users\KUROPSİS\Documents\GitHub\Sample\Sample.Entities\obj\Debug\net7.0\ref\Sample.Entities.dll
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\bin\Debug\net7.0\Sample.Entities.deps.json
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\bin\Debug\net7.0\Sample.Entities.dll
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\bin\Debug\net7.0\Sample.Entities.pdb
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\obj\Debug\net7.0\Sample.Entities.csproj.AssemblyReference.cache
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\obj\Debug\net7.0\Sample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\obj\Debug\net7.0\Sample.Entities.AssemblyInfoInputs.cache
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\obj\Debug\net7.0\Sample.Entities.AssemblyInfo.cs
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\obj\Debug\net7.0\Sample.Entities.csproj.CoreCompileInputs.cache
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\obj\Debug\net7.0\Sample.Entities.dll
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\obj\Debug\net7.0\refint\Sample.Entities.dll
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\obj\Debug\net7.0\Sample.Entities.pdb
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Entities\obj\Debug\net7.0\ref\Sample.Entities.dll

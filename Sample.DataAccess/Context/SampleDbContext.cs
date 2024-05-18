@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Sample.Entities.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Data.Common;
@@ -13,10 +14,15 @@ namespace Sample.DataAccess.Context
     //Migration için Microsoft.EntityFrameworkCore.Tools yüklenmeli
 
     //!! Bunlar :NET Sürümü ile aynı veya daha düşük olmalı
-    internal sealed class SampleDbContext : DbContext
+    internal sealed class SampleDbContext : DbContext, IUnitOfWork
     {
         public SampleDbContext(DbContextOptions options) : base(options)
         {
+        }
+
+        public Task<int> SaveShangesAsync(CancellationToken cancellationToken = default)
+        {
+            throw new NotImplementedException();
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

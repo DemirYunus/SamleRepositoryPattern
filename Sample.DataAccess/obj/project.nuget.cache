@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CZ0I2otrX2h9QPLOQsEQiNXxYyvhmfjtT39ptRTzx74zGK7vZ8IcvL4wlD4crLUvisj8p8zuU5RScV9mEIDepQ==",
+  "dgSpecHash": "XST/hXTIsnDydT6GI+qtEHHC3FxBu7qdsQQCvls+Jf1cB3IxLuAxeUi4dKTfkzj/P1HwTj0TiFZtlNSe5D8HXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\SamleRepositoryPattern\\Sample.DataAccess\\Sample.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\KUROPSİS\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\KUROPSİS\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\KUROPSİS\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\KUROPSİS\\.nuget\\packages\\scrutor\\4.2.2\\scrutor.4.2.2.nupkg.sha512",
     "C:\\Users\\KUROPSİS\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\KUROPSİS\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\KUROPSİS\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
