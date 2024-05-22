@@ -1,0 +1,15 @@
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\bin\Debug\net7.0\Sample.Business.deps.json
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\bin\Debug\net7.0\Sample.Business.dll
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\bin\Debug\net7.0\Sample.Business.pdb
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\bin\Debug\net7.0\Sample.Entities.dll
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\bin\Debug\net7.0\Sample.Entities.pdb
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\Sample.Business.csproj.AssemblyReference.cache
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\Sample.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\Sample.Business.AssemblyInfoInputs.cache
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\Sample.Business.AssemblyInfo.cs
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\Sample.Business.csproj.CoreCompileInputs.cache
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\Sample.Business.csproj.CopyComplete
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\Sample.Business.dll
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\refint\Sample.Business.dll
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\Sample.Business.pdb
+C:\Users\KUROPSİS\Documents\GitHub\SamleRepositoryPattern\Sample.Business\obj\Debug\net7.0\ref\Sample.Business.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+3P755BP7jY44cvnvoWrCergt3GpAmRl4dUeFbG8TJ6PrFryb5UtqEsuwL3pxjUWmkvwJ94HMahIe4NjybsGag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KUROPSİS\\Documents\\GitHub\\SamleRepositoryPattern\\Sample.Business\\Sample.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KUROPSİS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

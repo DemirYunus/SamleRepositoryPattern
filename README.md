@@ -14,3 +14,7 @@
         {
            return await _context.Set<T>().Where(expression).FirstOrDefaultAsync(cancellationToken);
         }
+
+3= Business katmanı
+	Referasnlara entity projesi eklenir
+	MediatR Kütüphanesi yüklenir

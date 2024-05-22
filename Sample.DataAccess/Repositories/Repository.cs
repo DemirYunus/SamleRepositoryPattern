@@ -4,6 +4,7 @@ using Sample.Entities.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,7 +13,7 @@ namespace Sample.DataAccess.Repositories
     internal class Repository<T> : IRepository<T>
         where T : class
     {
-        private readonly SampleDbContext _context;
+        private readonly SampleDbContext _context;     
 
         public Repository(SampleDbContext context)
         {
@@ -22,6 +23,11 @@ namespace Sample.DataAccess.Repositories
         public async Task AddAsync(T entity, CancellationToken cancellationToken = default)
         {
             await _context.Set<T>().AddAsync(entity, cancellationToken);
+        }
+
+        public async Task<bool> AnyAsync(Expression<Func<T, bool>> expression, CancellationToken cancellationToken = default)
+        {
+           return await _context.Set<T>().AnyAsync(expression, cancellationToken);
         }
 
         public IQueryable<T> GetAll()
